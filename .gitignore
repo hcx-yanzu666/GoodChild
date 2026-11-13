@@ -1,0 +1,31 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Backup/
+UpgradeLog*.htm
+
+# Plugin build output (rebuilt from source)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.pdb
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS
+Thumbs.db
+.DS_Store
